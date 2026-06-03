@@ -20,6 +20,4 @@ The workflow includes data preprocessing, feature engineering, model training, a
 
 ## Dataset
 
-The dataset used in this project is available on Kaggle:
-
-https://www.kaggle.com/competitions/spaceship-titanic/data
+[Kaggle Spaceship Titanic Competition](https://www.kaggle.com/competitions/spaceship-titanic/overview)

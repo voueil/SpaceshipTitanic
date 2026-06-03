@@ -1,4 +1,4 @@
-# 🚀 Spaceship Titanic Survival Prediction
+# Spaceship Titanic Survival Prediction
 
 Machine Learning project for predicting passenger transportation outcomes in the Spaceship Titanic disaster scenario
 
